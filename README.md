@@ -1,4 +1,4 @@
-# ⭐ Star Rating App
+# ⭐ Ratings Card
 
 A clean, interactive star rating component built with React that provides users with an intuitive way to rate their experience. Features smooth hover effects, visual feedback, and a confirmation modal for submitted ratings.
 
